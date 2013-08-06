@@ -1,0 +1,8 @@
+name: Scavengers-Core
+main: scavengersBuildTeam.core.Main
+version: 1.0
+description: >
+             Test Plugin.
+commands:
+  WhoIsBoh:
+    description: Type to learn dirty secrets.
